@@ -9,6 +9,7 @@ Our report is located in the top level directory of this repo (report-cloud.pdf)
 
 I have attacked below a few screenshots of our application.
 
-![image](https://github.com/confinlay/TrainBookingApp/assets/106957733/d9bd3200-2f77-400c-9e69-49e113ec0a7c)
-![image](https://github.com/confinlay/TrainBookingApp/assets/106957733/c1c66d88-3756-4ab1-ad80-e59d8ef25445)
-![image](https://github.com/confinlay/TrainBookingApp/assets/106957733/ba3d6c40-6518-4c36-a18e-c93f0287c7b1)![image](https://github.com/confinlay/TrainBookingApp/assets/106957733/fe7a787b-2981-4191-b64b-2879c356d016)
+![image](https://github.com/confinlay/TrainBookingApp/assets/106957733/21b081d1-1cf1-4fda-9a2b-617e87c0e95d)
+![3ed1a2d8cae2dd540a52d12c6d4a4669](https://github.com/confinlay/TrainBookingApp/assets/106957733/df9f9d0f-65cb-440e-9392-3fa44ee3c4e8)
+![7e73f6f1a6b05abbd33846ce6589f383](https://github.com/confinlay/TrainBookingApp/assets/106957733/fb740d93-6bea-473b-9984-4371fe8cc5ac)
+![e60ed354c611b415abb9abd65a49c8bd](https://github.com/confinlay/TrainBookingApp/assets/106957733/c1acb00e-cd39-4fdf-9558-f25a9ad645a6)
