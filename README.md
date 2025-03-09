@@ -1,7 +1,7 @@
 ## Distributed Ticketing Platform
 This repo contains the source code for a distributed ticketing platform   we developed as part of a university module at KU Leuven, namely, "Distributed Systems".
 
-As of the time of writing this short readme, the platform is still hosted on Google App Engine and is available at https://ds-part-2.ew.r.appspot.com. This application allows users to add/remove tickets to their cart, book all tickets in their cart, and view their previous bookings. If any of the ticket bookings fail (e.g. if one of the tickets has been booked by another user while sitting in the cart), then *none* of the tickets will be booked (the entire booking will fail). Any tickets that have been booked in the process will be released again.
+This application allows users to add/remove tickets to their cart, book all tickets in their cart, and view their previous bookings. If any of the ticket bookings fail (e.g. if one of the tickets has been booked by another user while sitting in the cart), then *none* of the tickets will be booked (the entire booking will fail). Any tickets that have been booked in the process will be released again.
 
 User authentication is done through Firebase, and user data is persisted on Firestore. Bookings are confired via a background Google Pub/Sub worker. Some of the trains on the website (and their corresponding ticket objects) are fetched from third party endpoints, where as others are hosted by our own platform, with associated data managed in the Firestore NoSQL database.
 
